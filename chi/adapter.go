@@ -8,8 +8,8 @@ import (
 	"net/http"
 
 	"github.com/aws/aws-lambda-go/events"
-	"github.com/awslabs/aws-lambda-go-api-proxy/core"
 	"github.com/go-chi/chi"
+	"github.com/squaaat/aws-lambda-go-api-proxy/core"
 )
 
 // ChiLambda makes it easy to send API Gateway proxy events to a Chi

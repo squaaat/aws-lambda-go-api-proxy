@@ -1,7 +1,7 @@
 github.com/aws/aws-lambda-go v1.10.0 h1:uafgdfYGQD0UeT7d2uKdyWW8j/ZYRifRPIdmeqLzLCk=
 github.com/aws/aws-lambda-go v1.10.0/go.mod h1:zUsUQhAUjYzR8AuduJPCfhBuKWUaDbQiPOG+ouzmE1A=
-github.com/awslabs/aws-lambda-go-api-proxy v0.3.0 h1:HHYn0RgPacnBqdljaJlwG9rWivKn4GqPLYEDXo4Dba4=
-github.com/awslabs/aws-lambda-go-api-proxy v0.3.0/go.mod h1:1WYCl0lFZD+KAqdW+usdz46oShDhOEj3uTw09Qv++28=
+github.com/squaaat/aws-lambda-go-api-proxy v0.3.0 h1:HHYn0RgPacnBqdljaJlwG9rWivKn4GqPLYEDXo4Dba4=
+github.com/squaaat/aws-lambda-go-api-proxy v0.3.0/go.mod h1:1WYCl0lFZD+KAqdW+usdz46oShDhOEj3uTw09Qv++28=
 github.com/gin-contrib/sse v0.0.0-20190301062529-5545eab6dad3 h1:t8FVkw33L+wilf2QiWkw0UV77qRpcH/JHPKGpKa2E8g=
 github.com/gin-contrib/sse v0.0.0-20190301062529-5545eab6dad3/go.mod h1:VJ0WA2NBN22VlZ2dKZQPAPnyWw5XTlK1KymzLKsr59s=
 github.com/gin-gonic/gin v1.3.0 h1:kCmZyPklC0gVdL728E6Aj20uYBJV93nj/TkwBTKhFbs=
